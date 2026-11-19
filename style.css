@@ -53,3 +53,18 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+/* Normal hyperlinks */
+a {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+/* Bold hyperlinks */
+header a {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+}
