@@ -61,7 +61,7 @@ a {
     text-decoration: none;
 }
 
-/* Bold hyperlinks */
+
 header a {
     color: white;
     padding: 1rem;
@@ -69,12 +69,7 @@ header a {
     text-decoration: none;
 }
 
-h1,
-h1 a,
-h1 a:link,
-h1 a:visited,
-h1 a:hover,
-h1 a:active {
+h1 {
     color: white;
     font-weight: 400;
     text-decoration: none;
